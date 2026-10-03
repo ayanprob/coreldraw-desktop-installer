@@ -1,0 +1,16 @@
+# Configuration for git attributes
+
+
+* text=auto
+src/*.ts linguist-detectable
+*.gif binary
+*.yaml linguist-detectable=false
+
+*.jpeg binary
+
+*.svg text
+*.htm linguist-vendored
+
+go.sum linguist-generated
+package-lock.json linguist-generated
+# eof 208b44f0
