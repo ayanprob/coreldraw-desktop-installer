@@ -1,0 +1,7 @@
+*.tgz
+yarn-error.log*
+coverage/
+*.log
+build/
+.cache/
+.pnpm-store/
